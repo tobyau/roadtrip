@@ -1,7 +1,5 @@
 """
 Toby Au
-Lab 6: spring_break
-CSC1 141
 """
 
 from rit_lib import*
